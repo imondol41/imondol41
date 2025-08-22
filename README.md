@@ -1,11 +1,11 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm [IBRAHIM KHOLILULLA] 👋
 
 ### 💻 Data Scientist | Machine Learning Engineer 🤖
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=1000&color=2196F3&background=00000000&center=true&vCenter=true&width=435&lines=Data+Scientist+%7C+ML+Engineer;Python+Developer+%7C+AI+Enthusiast;Building+Intelligent+Solutions;Passionate+About+Data+Analytics)](https://git.io/typing-svg)
 
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blue&style=flat-square&label=Profile+Views)
-![GitHub followers](https://img.shields.io/github/followers/yourusername?label=Followers&style=social)
+![Profile Views](https://komarev.com/ghpvc/?username=imondol41&color=blue&style=flat-square&label=Profile+Views)
+![GitHub followers](https://img.shields.io/github/followers/imondol41?label=Followers&style=social)
 
 ## 🚀 About Me
 
@@ -52,15 +52,15 @@
 
 ## 📈 GitHub Stats
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=imondol41&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=yourusername&theme=tokyonight&hide_border=true" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=imondol41&theme=tokyonight&hide_border=true" />
 
 <br clear="both"/>
 
 ## 🔥 Contribution Streak
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=imondol41&theme=tokyonight&hide_border=true" />
 
 ## 🏆 GitHub Trophies
 
